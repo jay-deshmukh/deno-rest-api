@@ -39,3 +39,6 @@ curl --location --request PUT 'http://localhost:5000/api/products/1' \
 curl --location --request DELETE 'http://localhost:5000/api/products/1'
 ```
 
+
+
+> Note : This is very minimal and simple implementation of rest api in deno and does not persist data in the database 
